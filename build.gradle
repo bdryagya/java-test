@@ -8,10 +8,8 @@
 
  dependencies {
      compile 'com.google.code.gson:gson:2.8.0'
-     compile 'com.github.bdryagya:console:0.0.2'
  }
 
  repositories {
      mavenCentral()
-     maven { url 'https://jitpack.io' }
  }
